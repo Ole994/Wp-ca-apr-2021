@@ -1,0 +1,54 @@
+body{
+    color: #fff;
+    font-family: Source Sans Pro,HelveticaNeue-Light,Helvetica 
+    Neue Light,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif;
+    background-color: lightgray;
+    margin: 2px;
+}
+
+
+nav{
+    background-color: black;
+    text-decoration: none;
+}
+
+li{
+    text-decoration: none;
+
+}
+
+a{
+    color: #fff;
+}
+
+button{
+    background-color: #394f4c;
+    color: white;
+}
+
+
+.hero-picture{
+    display: flex;
+    width: 100%;
+    margin-bottom: 2rem;
+}
+
+.single-flower-products{
+    width: 10rem;
+}
+
+.flower-products{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.add-to-cart-button{
+display: flex;
+flex-direction: column;
+padding: 1rem;
+justify-content: center;
+
+}
+
+
+
