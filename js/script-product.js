@@ -25,7 +25,7 @@ const url = `https://olekorvald.no/wp-json/wc/store/products/${id}`;
 fetch(url)
     .then(response => response.json())
     .then(data => {
-        //console.log('Success:', data);
+       
         displayProduct(data);
     })
 
