@@ -4,7 +4,7 @@ if (!id) { window.location = "products.html"; }
 const output = document.querySelector(".product");
 
 const displayProduct = (data) => {
-
+console.log (data)
     const name = data.name;
     const description = data.description
     const link = data.permalink;
