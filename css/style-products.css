@@ -7,44 +7,16 @@ body{
 }
 
 
-
-
-
 li{
     text-decoration: none;
-
 }
 
 a{
     color: #fff;
 }
 
-button{
-    background-color: #394f4c;
-    color: white;
-}
-
-.flower-products{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    
-}
-.productBox{
-display: flex;
-flex-direction: column;
-padding: 1rem;
-justify-content: center;
-}
-
-
-
-
-
-
-.single-flower-products{
-    width: 10rem;
-
+img{
+    width: 15rem;
 }
 
 
